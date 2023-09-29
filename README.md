@@ -10,8 +10,7 @@ The Main goal of this project was creating data visualization answering followin
 
 For mor detail about project proposal, refer to the project proposal document uploaded above.
 
-Source of our Adidas Sales data is from link shown below:
-Data: https://data.world/stellabigail/adidas-us-sales-datasets
+Source of our Adidas Sales data: https://data.world/stellabigail/adidas-us-sales-datasets
 
 ### Data Quality/Manipulation
 I primarily employed Microsoft Excel for data manipulation, and fortunately, the overall data quality was quite high, requiring minimal preprocessing. Nonetheless, there were a few data adjustments needed. Some numerical values were initially set as non-numeric, so I had to convert them from a general format to a numeric one.
