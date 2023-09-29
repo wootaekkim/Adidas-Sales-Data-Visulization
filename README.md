@@ -19,7 +19,8 @@ I primarily employed Microsoft Excel for data manipulation, and fortunately, the
 Additionally, I performed data preprocessing by splitting a particular column. This column contained product descriptions in a format like "Women's Street FootWear." To enhance the data's structure and usability, I separated this column into two distinct ones: "Gender" and "Product Category."
 
 ### Data visualization
-For data visualization, I created an interactive dashboard using Tableau, comprising four main sections Click below to go to the dashboard in Tableau Public. 
+For data visualization, I created an interactive dashboard using Tableau, comprising four main sections.
+Click below to go to the dashboard in Tableau Public. [Tableau Dashboard Link](https://public.tableau.com/views/AdidasUSSales2020-2021Datavisualizationstory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 #### Trend of Sales and Operating Sales
 - This section primarily highlights the variance in total sales and operating profit between 2020 and 2022.
